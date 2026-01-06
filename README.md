@@ -17,7 +17,7 @@ Each project folder includes:
 ### 1. Urban Green Cover Assessment Using NDVI – Delhi
 Analysis of vegetation distribution and density using NDVI derived from satellite imagery.
 
-📁 Folder: 📁 Folder: [01_NDVI_Green_Cover_Delhi](01_NDVI_Green_Cover_Delhi)
+📁 Folder: [01_NDVI_Green_Cover_Delhi](01_NDVI_Green_Cover_Delhi)
 
 
 
