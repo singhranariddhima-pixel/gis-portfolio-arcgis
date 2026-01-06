@@ -17,21 +17,22 @@ Each project folder includes:
 ### 1. Urban Green Cover Assessment Using NDVI – Delhi
 Analysis of vegetation distribution and density using NDVI derived from satellite imagery.
 
-📁 Folder: `01_NDVI_Green_Cover_Delhi`
+📁 Folder: 📁 Folder: [01_NDVI_Green_Cover_Delhi](01_NDVI_Green_Cover_Delhi)
+
 
 
 
 ### 2. Built-Up Area Mapping Using NDBI – Delhi
 Extraction and visualization of built-up areas through spectral index analysis.
 
-📁 Folder: `02_NDBI_Builtup_Delhi`
+📁 Folder:  [02_NDBI_Builtup_Delhi](02_NDBI_Builtup_Delhi)
 
 
 
 ### 3. Metro Accessibility Analysis (500–1000 m Buffers) – Delhi
 Assessment of urban accessibility to metro stations using buffer-based spatial analysis.
 
-📁 Folder: `03_Metro_Accessibility_Delhi`
+📁 Folder: [03_Metro_Accessibility_Delhi](03_Metro_Accessibility_Delhi)
 
 
 
