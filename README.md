@@ -3,6 +3,7 @@
 This repository contains selected GIS projects focused on urban and environmental analysis using remote sensing and spatial analysis techniques.
 
 The projects are based on real-world study areas in India and demonstrate practical workflows including raster analysis, vector analysis, spatial interpretation, and map design.
+This portfolio is actively being updated with additional projects and improved analyses.
 
 Each project folder includes:
 - A brief project description
